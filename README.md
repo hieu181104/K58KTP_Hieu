@@ -40,4 +40,4 @@ Tạo csdl quan hệ với tên QLSV gồm các bảng sau:
 ### Yêu cầu 1: Thực hiện các hành động trên giao diện đồ họa để tạo cơ sở dữ liệu cho bài toán.
 Tạo database mới, mô tả các tham số (nếu có), tạo các bảng dữ liệu với các trường theo yêu cầu bài toán, lựa chọn kiểu dữ liệu phù hợp:
   - Mô tả việc tạo cơ sở dữ liệu tên SinhVien:
-![image](https://github.com/user-attachments/assets/99cefb07-62a2-48b5-896f-1faaf9d3cf2c)
+![image](https://github.com/user-attachments/assets/ce998164-b917-4844-a885-e2c67fa6e16a)
