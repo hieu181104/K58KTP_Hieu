@@ -36,3 +36,8 @@ Tạo csdl quan hệ với tên QLSV gồm các bảng sau:
 3. Bài làm phải có dấu ấn cá nhân (hãy sáng tạo và biết cách bảo vệ mình nếu bạn là bản chính)
 4. Kết quả AI phải phù hợp với yêu cầu, nếu quá sai lệch <=> sv ko đọc => Cấm thi
 5. Nên nhớ: cấm thi là ko có vùng cấm và thầy chưa bao giờ nói đùa về việc cấm thi.
+## PASTE ẢNH CHỤP MÀN HÌNH CÁC BƯỚC THỰC HIỆN BÀI TẬP
+### Yêu cầu 1: Thực hiện các hành động trên giao diện đồ họa để tạo cơ sở dữ liệu cho bài toán.
+Tạo database mới, mô tả các tham số (nếu có), tạo các bảng dữ liệu với các trường theo yêu cầu bài toán, lựa chọn kiểu dữ liệu phù hợp:
+  - Mô tả việc tạo cơ sở dữ liệu tên SinhVien:
+![image](https://github.com/user-attachments/assets/99cefb07-62a2-48b5-896f-1faaf9d3cf2c)
