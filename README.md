@@ -52,4 +52,4 @@ Thực hiện tương tự như vậy, với các cơ sở dữ liệu còn lạ
 ![image](https://github.com/user-attachments/assets/551831ba-4903-4941-a395-bcfaa8ac1a83)
 ![image](https://github.com/user-attachments/assets/84405fa1-d2bf-4969-874b-761fcd2adc14)
   - Tạo các bảng dữ liệu với các trường như mô tả của bài toán và chọn kiểu dữ liệu phù hợp.
-a, Cơ sở dữ liệu SinhVien:
+Cơ sở dữ liệu SinhVien:
