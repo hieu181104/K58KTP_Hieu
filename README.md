@@ -57,3 +57,7 @@ Thực hiện tương tự như vậy, với các cơ sở dữ liệu còn lạ
 ![image](https://github.com/user-attachments/assets/d1186e12-9e40-44a2-8fdc-850c4d553d66)
 ![Ảnh chụp màn hình 2025-03-23 211224](https://github.com/user-attachments/assets/ca819525-f190-49b5-a394-c5d5c8552b7b)
 ![image](https://github.com/user-attachments/assets/46c9d040-628b-43d1-8c18-02dca42d78cd)
+#### Database Lop:
+Thực hiện tương tự với database SinhVien, từ đây em xin phép không mô tả chi tiết nữa, ở ảnh nào có điểm khác biệt, em sẽ mô tả thêm.
+![Ảnh chụp màn hình 2025-03-23 214912](https://github.com/user-attachments/assets/8d9c48e7-3a59-4d61-a54a-1182886c7e4a)
+#### Database GVCN:
