@@ -38,8 +38,8 @@ Tạo csdl quan hệ với tên QLSV gồm các bảng sau:
 5. Nên nhớ: cấm thi là ko có vùng cấm và thầy chưa bao giờ nói đùa về việc cấm thi.
 ## PASTE ẢNH CHỤP MÀN HÌNH CÁC BƯỚC THỰC HIỆN BÀI TẬP
 ### Yêu cầu 1: Thực hiện các hành động trên giao diện đồ họa để tạo cơ sở dữ liệu cho bài toán.
-Tạo database mới, mô tả các tham số (nếu có), tạo các bảng dữ liệu với các trường theo yêu cầu bài toán, lựa chọn kiểu dữ liệu phù hợp:
-  - Mô tả việc tạo cơ sở dữ liệu tên SinhVien.
+#### Tạo database mới, mô tả các tham số (nếu có)
+Mô tả việc tạo cơ sở dữ liệu tên SinhVien:
 ![image](https://github.com/user-attachments/assets/ce998164-b917-4844-a885-e2c67fa6e16a)
 Thực hiện tương tự như vậy, với các cơ sở dữ liệu còn lại:
 ![image](https://github.com/user-attachments/assets/5755dab2-a4dd-4627-b0d2-6d291988a70e)
@@ -51,5 +51,4 @@ Thực hiện tương tự như vậy, với các cơ sở dữ liệu còn lạ
 ![image](https://github.com/user-attachments/assets/d4af0a53-11e6-4a8d-a7ff-50336f7aafd7)
 ![image](https://github.com/user-attachments/assets/551831ba-4903-4941-a395-bcfaa8ac1a83)
 ![image](https://github.com/user-attachments/assets/84405fa1-d2bf-4969-874b-761fcd2adc14)
-  - Tạo các bảng dữ liệu với các trường như mô tả của bài toán và chọn kiểu dữ liệu phù hợp.
-Cơ sở dữ liệu SinhVien:
+#### Tạo các bảng dữ liệu và chọn kiểu dữ liệu:
