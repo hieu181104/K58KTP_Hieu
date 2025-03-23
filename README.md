@@ -39,5 +39,17 @@ Tạo csdl quan hệ với tên QLSV gồm các bảng sau:
 ## PASTE ẢNH CHỤP MÀN HÌNH CÁC BƯỚC THỰC HIỆN BÀI TẬP
 ### Yêu cầu 1: Thực hiện các hành động trên giao diện đồ họa để tạo cơ sở dữ liệu cho bài toán.
 Tạo database mới, mô tả các tham số (nếu có), tạo các bảng dữ liệu với các trường theo yêu cầu bài toán, lựa chọn kiểu dữ liệu phù hợp:
-  - Mô tả việc tạo cơ sở dữ liệu tên SinhVien:
+  - Mô tả việc tạo cơ sở dữ liệu tên SinhVien.
 ![image](https://github.com/user-attachments/assets/ce998164-b917-4844-a885-e2c67fa6e16a)
+Thực hiện tương tự như vậy, với các cơ sở dữ liệu còn lại:
+![image](https://github.com/user-attachments/assets/5755dab2-a4dd-4627-b0d2-6d291988a70e)
+![image](https://github.com/user-attachments/assets/24c16d66-44e0-4c19-b686-c95d310bb52c)
+![image](https://github.com/user-attachments/assets/800dae3d-29c8-4d19-835b-29f587a76a8f)
+![image](https://github.com/user-attachments/assets/51395fed-018f-4238-91a2-f07805748d3a)
+![image](https://github.com/user-attachments/assets/18514a01-4fbf-428a-8c37-632c0a7b298a)
+![image](https://github.com/user-attachments/assets/f9710a58-1186-48aa-892d-e23f017436e1)
+![image](https://github.com/user-attachments/assets/d4af0a53-11e6-4a8d-a7ff-50336f7aafd7)
+![image](https://github.com/user-attachments/assets/551831ba-4903-4941-a395-bcfaa8ac1a83)
+![image](https://github.com/user-attachments/assets/84405fa1-d2bf-4969-874b-761fcd2adc14)
+  - Tạo các bảng dữ liệu với các trường như mô tả của bài toán và chọn kiểu dữ liệu phù hợp.
+a, Cơ sở dữ liệu SinhVien:
