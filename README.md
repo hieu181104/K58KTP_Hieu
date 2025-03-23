@@ -54,3 +54,6 @@ Thực hiện tương tự như vậy, với các cơ sở dữ liệu còn lạ
 #### Tạo các bảng dữ liệu và chọn kiểu dữ liệu & thiết lập các khóa và CK (nếu cần):
 ![image](https://github.com/user-attachments/assets/9678d174-fbe4-4544-96b3-a82364299545)
 ##### Database SinhVien:
+![image](https://github.com/user-attachments/assets/d1186e12-9e40-44a2-8fdc-850c4d553d66)
+![Ảnh chụp màn hình 2025-03-23 211224](https://github.com/user-attachments/assets/ca819525-f190-49b5-a394-c5d5c8552b7b)
+![image](https://github.com/user-attachments/assets/46c9d040-628b-43d1-8c18-02dca42d78cd)
