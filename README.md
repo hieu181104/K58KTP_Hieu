@@ -77,5 +77,7 @@ Nhấn giữ phím Ctrl + Click vào các trường chọn làm khóa chính, nh
 ##### Bảng MonHoc
 ![image](https://github.com/user-attachments/assets/d225f70d-c5af-4e56-a4a3-36d670bae23c)
 ##### Bảng LopHP
-
+![image](https://github.com/user-attachments/assets/8d34bca4-51ac-4e76-8523-46656f711aac)
 ##### Bảng DKMH
+![image](https://github.com/user-attachments/assets/1f749057-f480-4343-959e-7c0784b8e084)
+![image](https://github.com/user-attachments/assets/d5566125-acb9-4fc3-a5de-ac53dd0f53a7)
