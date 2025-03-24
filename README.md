@@ -55,4 +55,11 @@ Tạo csdl quan hệ với tên QLSV gồm các bảng sau:
 ![image](https://github.com/user-attachments/assets/299c6e0f-6766-4dac-8a72-40061f520959)
 Sau đây em nhập thử dữ liệu cho bảng SinhVien, nhận thấy khi mọi dữ liệu không vi phạm CK thì hoàn toàn bình thường, nếu vi phạm sẽ hiển thị cảnh báo:
 ![Ảnh chụp màn hình 2025-03-24 140158](https://github.com/user-attachments/assets/7162ace6-aad6-4354-a7e4-70e1b4b8b5e6)
-##### Thực hiện tương tự đối với các bảng còn lại trong database, sau đây em xin chụp lại kết quả và không giải thích lại những phần đã chú thích:
+#### Thực hiện tương tự đối với các bảng còn lại trong database, sau đây em xin chụp lại kết quả và không giải thích lại những phần đã chú thích:
+##### Bảng Lop
+![image](https://github.com/user-attachments/assets/bd3e044c-189f-490f-a380-9c0550b828a8)
+![image](https://github.com/user-attachments/assets/a30f9ab6-57f7-40c9-80be-09e7ca4c3dab)
+##### Bảng GVCN
+![image](https://github.com/user-attachments/assets/fed44070-fca6-4fad-96f9-12b12506e882)
+Nhấn giữ phím Ctrl + Click vào các trường chọn làm khóa chính, nháy chuột phải chọn Set Primary Key ( vì ở đây có nhiều hơn một khóa chính):
+![image](https://github.com/user-attachments/assets/0d41b80a-ba14-42d9-aa6a-6b278d349629)
