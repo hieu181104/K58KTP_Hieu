@@ -80,4 +80,5 @@ Nhấn giữ phím Ctrl + Click vào các trường chọn làm khóa chính, nh
 ![image](https://github.com/user-attachments/assets/8d34bca4-51ac-4e76-8523-46656f711aac)
 ##### Bảng DKMH
 ![image](https://github.com/user-attachments/assets/1f749057-f480-4343-959e-7c0784b8e084)
-![image](https://github.com/user-attachments/assets/d5566125-acb9-4fc3-a5de-ac53dd0f53a7)
+![image](https://github.com/user-attachments/assets/6c5bfd0e-db43-466a-b61e-a2d784565d5f)
+#### Khởi tạo các FK cho các bảng
