@@ -115,7 +115,7 @@ Thực hiện tương tự như bảng GVCN
 ### Yêu cầu 2: Chuyển các thao tác trên thành lệnh SQL tương đương
 Để thực hiện yêu cầu này, ta sẽ thao tác như sau:
 ![Ảnh chụp màn hình 2025-03-24 171007](https://github.com/user-attachments/assets/de891d84-e876-43f8-88fd-8faae9281e08)
-Sau khi thực hiện lần lượt với database, các bảng trong database em đã thu được một file được tổng hợp lại:
+#### Sau khi thực hiện lần lượt với database, các bảng trong database em đã thu được một file code tổng hợp lại (file code đã được tải lên trong github, dưới đây chỉ là đoạn mã được dán vào):
 /* Tao database */
 CREATE DATABASE [QLSV]
  CONTAINMENT = NONE
