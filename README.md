@@ -63,3 +63,19 @@ Sau đây em nhập thử dữ liệu cho bảng SinhVien, nhận thấy khi m�
 ![image](https://github.com/user-attachments/assets/fed44070-fca6-4fad-96f9-12b12506e882)
 Nhấn giữ phím Ctrl + Click vào các trường chọn làm khóa chính, nháy chuột phải chọn Set Primary Key ( vì ở đây có nhiều hơn một khóa chính):
 ![image](https://github.com/user-attachments/assets/0d41b80a-ba14-42d9-aa6a-6b278d349629)
+##### Bảng LopSV
+![image](https://github.com/user-attachments/assets/0e001594-cd9b-46b5-93fe-570a9c10980f)
+![image](https://github.com/user-attachments/assets/53486d7d-170c-4385-95b0-9e5e130832e4)
+##### Bảng GiaoVien
+![image](https://github.com/user-attachments/assets/16b72ede-e0a7-4f4a-a716-26e4084fa66e)
+![image](https://github.com/user-attachments/assets/9b97a769-9bcf-437a-bd4f-a0236c7d9c09)
+##### Bảng BoMon
+![image](https://github.com/user-attachments/assets/838df6ff-7052-4c5b-b2f6-69d3a7c1626b)
+![image](https://github.com/user-attachments/assets/f6499606-d02d-45de-a3f1-066aa6f633fd)
+##### Bảng Khoa
+![image](https://github.com/user-attachments/assets/d8f5cbdb-2a6d-4473-b51f-123543658feb)
+##### Bảng MonHoc
+![image](https://github.com/user-attachments/assets/d225f70d-c5af-4e56-a4a3-36d670bae23c)
+##### Bảng LopHP
+
+##### Bảng DKMH
