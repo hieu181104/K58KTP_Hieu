@@ -51,3 +51,6 @@ Tạo csdl quan hệ với tên QLSV gồm các bảng sau:
 ![image](https://github.com/user-attachments/assets/4871d293-5357-47ef-b7df-4cf70e3ff04d)
 ##### Bấm chuột phải vào khoảng trống trong table, click chọn Check Constraint để tạo CK ( ở đây em áp dụng cho trường NgaySinh ):
 ![image](https://github.com/user-attachments/assets/1c1920a4-320f-4ced-a668-a5cf5e6729d9)
+![Ảnh chụp màn hình 2025-03-24 135214](https://github.com/user-attachments/assets/e0775997-31cd-4ef8-b709-210e2b33aa9b)
+![image](https://github.com/user-attachments/assets/299c6e0f-6766-4dac-8a72-40061f520959)
+
