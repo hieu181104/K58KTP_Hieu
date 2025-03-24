@@ -81,6 +81,7 @@ Nhấn giữ phím Ctrl + Click vào các trường chọn làm khóa chính, nh
 ##### Bảng DKMH
 ![image](https://github.com/user-attachments/assets/77fd6eb7-d408-492f-a7b6-77841da383d6)
 ![image](https://github.com/user-attachments/assets/6c5bfd0e-db43-466a-b61e-a2d784565d5f)
+![image](https://github.com/user-attachments/assets/d751bdd0-bac1-415e-a2fb-138830e4cee7)
 #### Khởi tạo các FK cho các bảng
 Để thực hiện thay đổi cho bảng, click chuột phải vào tên bảng chọn Design.
 ![image](https://github.com/user-attachments/assets/a6ed5d90-01f2-49c2-814a-d97884630ded)
