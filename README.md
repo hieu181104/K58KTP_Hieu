@@ -110,3 +110,4 @@ Thực hiện tương tự như bảng GVCN
 ##### Bảng DKMH
 ![image](https://github.com/user-attachments/assets/91c83f9a-836a-4e7a-8d69-2e6789d39504)
 ![image](https://github.com/user-attachments/assets/104caea1-1a81-44b2-a164-178d93633664)
+![image](https://github.com/user-attachments/assets/687aca8e-26f8-4c8c-ba14-0f0c80d81238)
