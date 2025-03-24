@@ -14,7 +14,7 @@ CREATE TABLE [dbo].[BoMon](
 	[maBM] [varchar](12) NOT NULL,
 	[tenBM] [nvarchar](50) NULL,
 	[maKhoa] [varchar](12) NOT NULL,
- CONSTRAINT [PK_BoMon] PRIMARY KEY CLUSTERED 
+ CONSTRAINT [PK_BoMon] PRIMARY KEY 
 (
 	[maBM] ASC
 )
@@ -29,7 +29,7 @@ CREATE TABLE [dbo].[SinhVien](
 	[masv] [varchar](13) NOT NULL,
 	[hoten] [nvarchar](50) NULL,
 	[NgaySinh] [date] NULL,
- CONSTRAINT [PK_SinhVien] PRIMARY KEY CLUSTERED 
+ CONSTRAINT [PK_SinhVien] PRIMARY KEY  
 (
 	[masv] ASC
 )
@@ -41,7 +41,7 @@ ALTER TABLE [dbo].[SinhVien] CHECK CONSTRAINT [CK_SinhVien]
 CREATE TABLE [dbo].[Lop](
 	[maLop] [varchar](12) NOT NULL,
 	[tenLop] [nvarchar](50) NULL,
- CONSTRAINT [PK_Lop] PRIMARY KEY CLUSTERED 
+ CONSTRAINT [PK_Lop] PRIMARY KEY  
 (
 	[maLop] ASC
 )
@@ -52,7 +52,7 @@ CREATE TABLE [dbo].[GVCN](
 	[maLop] [varchar](12) NOT NULL,
 	[magv] [varchar](12) NOT NULL,
 	[HK] [nvarchar](10) NOT NULL,
- CONSTRAINT [PK_GVCN] PRIMARY KEY CLUSTERED 
+ CONSTRAINT [PK_GVCN] PRIMARY KEY 
 (
 	[maLop] ASC,
 	[magv] ASC,
@@ -71,7 +71,7 @@ CREATE TABLE [dbo].[LopSV](
 	[maLop] [varchar](12) NOT NULL,
 	[masv] [varchar](13) NOT NULL,
 	[ChucVu] [nvarchar](50) NULL,
- CONSTRAINT [PK_LopSV] PRIMARY KEY CLUSTERED 
+ CONSTRAINT [PK_LopSV] PRIMARY KEY  
 (
 	[maLop] ASC,
 	[masv] ASC
@@ -89,7 +89,7 @@ CREATE TABLE [dbo].[MonHoc](
 	[mamon] [varchar](8) NOT NULL,
 	[Tenmon] [nvarchar](50) NULL,
 	[STC] [int] NULL,
- CONSTRAINT [PK_MonHoc] PRIMARY KEY CLUSTERED 
+ CONSTRAINT [PK_MonHoc] PRIMARY KEY  
 (
 	[mamon] ASC
 )
@@ -99,7 +99,7 @@ CREATE TABLE [dbo].[MonHoc](
  CREATE TABLE [dbo].[Khoa](
 	[maKhoa] [varchar](12) NOT NULL,
 	[tenKhoa] [nvarchar](50) NULL,
- CONSTRAINT [PK_Khoa] PRIMARY KEY CLUSTERED 
+ CONSTRAINT [PK_Khoa] PRIMARY KEY  
 (
 	[maKhoa] ASC
 )
@@ -111,7 +111,7 @@ CREATE TABLE [dbo].[GiaoVien](
 	[hoten] [nvarchar](50) NULL,
 	[NgaySinh] [date] NULL,
 	[maBM] [varchar](12) NOT NULL,
- CONSTRAINT [PK_GiaoVien] PRIMARY KEY CLUSTERED 
+ CONSTRAINT [PK_GiaoVien] PRIMARY KEY 
 (
 	[magv] ASC
 )
@@ -129,7 +129,7 @@ CREATE TABLE [dbo].[LopHP](
 	[HK] [nvarchar](10) NULL,
 	[mamon] [varchar](8) NULL,
 	[magv] [varchar](12) NULL,
- CONSTRAINT [PK_LopHP] PRIMARY KEY CLUSTERED 
+ CONSTRAINT [PK_LopHP] PRIMARY KEY  
 (
 	[maLopHP] ASC
 )
@@ -148,7 +148,7 @@ CREATE TABLE [dbo].[DKMH](
 	[DiemTP] [float] NULL,
 	[DiemThi] [float] NULL,
 	[PhanTramThi] [decimal](5, 2) NULL,
- CONSTRAINT [PK_DKMH] PRIMARY KEY CLUSTERED 
+ CONSTRAINT [PK_DKMH] PRIMARY KEY  
 (
 	[maLopHP] ASC,
 	[masv] ASC
