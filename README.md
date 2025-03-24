@@ -92,5 +92,21 @@ Click chuột phải chọn Relationships...:
 ![Ảnh chụp màn hình 2025-03-24 155343](https://github.com/user-attachments/assets/b885584c-9a33-45b1-bbec-17b8f217d6fa)
 ![Ảnh chụp màn hình 2025-03-24 160145](https://github.com/user-attachments/assets/4384cb1c-6794-4d5c-8f5f-3a5c9ac5ffc7)
 ![image](https://github.com/user-attachments/assets/0bdb1dad-90cc-467e-8193-2debd957484c)
-Sau khi thực hiện các bước trên, ctrl + S để lưu và hệ thống sẽ hiển thị thông báo này, bấm OK để hoàn tất việc thiết lập.
+Sau khi thực hiện các bước trên, ctrl + S để lưu và hệ thống sẽ hiển thị thông báo này, bấm Yes để hoàn tất việc thiết lập.
 ![image](https://github.com/user-attachments/assets/68a832f6-6017-47fb-9b98-7478e86c74c0)
+##### Bảng LopSV
+Thực hiện tương tự như bảng GVCN
+![image](https://github.com/user-attachments/assets/8c4f4803-025f-4278-a1c8-379e43153c73)
+![image](https://github.com/user-attachments/assets/5e36be12-7e1d-4a75-9de6-ab54ac38a0d3)
+##### Bảng GiaoVien
+![image](https://github.com/user-attachments/assets/474c8258-833d-4a85-b0e9-9533c0e8d474)
+##### Bảng BoMon
+![image](https://github.com/user-attachments/assets/48b50e75-b9a9-46f5-9e8d-cb687b3ce2af)
+![image](https://github.com/user-attachments/assets/bfc01e4a-3bea-4640-aff4-4e98efdc58ab)
+##### Bảng LopHP
+![image](https://github.com/user-attachments/assets/d14ba158-409d-441b-9858-1a600319a995)
+![image](https://github.com/user-attachments/assets/9e627381-abda-477f-ac8f-24d3b8356f50)
+![image](https://github.com/user-attachments/assets/b95d737c-7dbb-4873-8123-01e1858b2acf)
+##### Bảng DKMH
+![image](https://github.com/user-attachments/assets/91c83f9a-836a-4e7a-8d69-2e6789d39504)
+![image](https://github.com/user-attachments/assets/104caea1-1a81-44b2-a164-178d93633664)
