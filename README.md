@@ -38,26 +38,16 @@ Tạo csdl quan hệ với tên QLSV gồm các bảng sau:
 5. Nên nhớ: cấm thi là ko có vùng cấm và thầy chưa bao giờ nói đùa về việc cấm thi.
 ## PASTE ẢNH CHỤP MÀN HÌNH CÁC BƯỚC THỰC HIỆN BÀI TẬP
 ### Yêu cầu 1: Thực hiện các hành động trên giao diện đồ họa để tạo cơ sở dữ liệu cho bài toán.
-#### Tạo database mới, mô tả các tham số (nếu có)
-Mô tả việc tạo cơ sở dữ liệu tên SinhVien:
-![image](https://github.com/user-attachments/assets/ce998164-b917-4844-a885-e2c67fa6e16a)
-Thực hiện tương tự như vậy, với các cơ sở dữ liệu còn lại:
-![image](https://github.com/user-attachments/assets/5755dab2-a4dd-4627-b0d2-6d291988a70e)
-![image](https://github.com/user-attachments/assets/24c16d66-44e0-4c19-b686-c95d310bb52c)
-![image](https://github.com/user-attachments/assets/800dae3d-29c8-4d19-835b-29f587a76a8f)
-![image](https://github.com/user-attachments/assets/51395fed-018f-4238-91a2-f07805748d3a)
-![image](https://github.com/user-attachments/assets/18514a01-4fbf-428a-8c37-632c0a7b298a)
-![image](https://github.com/user-attachments/assets/f9710a58-1186-48aa-892d-e23f017436e1)
-![image](https://github.com/user-attachments/assets/d4af0a53-11e6-4a8d-a7ff-50336f7aafd7)
-![image](https://github.com/user-attachments/assets/551831ba-4903-4941-a395-bcfaa8ac1a83)
-![image](https://github.com/user-attachments/assets/84405fa1-d2bf-4969-874b-761fcd2adc14)
-#### Tạo các bảng dữ liệu và chọn kiểu dữ liệu & thiết lập các khóa và CK (nếu cần):
-![image](https://github.com/user-attachments/assets/9678d174-fbe4-4544-96b3-a82364299545)
-##### Database SinhVien:
-![image](https://github.com/user-attachments/assets/d1186e12-9e40-44a2-8fdc-850c4d553d66)
-![Ảnh chụp màn hình 2025-03-23 211224](https://github.com/user-attachments/assets/ca819525-f190-49b5-a394-c5d5c8552b7b)
-![image](https://github.com/user-attachments/assets/46c9d040-628b-43d1-8c18-02dca42d78cd)
-#### Database Lop:
-Thực hiện tương tự với database SinhVien, từ đây em xin phép không mô tả chi tiết nữa, ở ảnh nào có điểm khác biệt, em sẽ mô tả thêm.
-![Ảnh chụp màn hình 2025-03-23 214912](https://github.com/user-attachments/assets/8d9c48e7-3a59-4d61-a54a-1182886c7e4a)
-#### Database GVCN:
+#### Tạo database mới tên QLSV:
+##### Mở SQL Server Management Studio, thực hiện kết nối rồi tại mục Database click chuột phải chọn New Database.
+![Ảnh chụp màn hình 2025-03-24 132829](https://github.com/user-attachments/assets/b7838af2-cd48-41f2-8b9b-af07958f6f3a)
+##### Để tạo bảng trong database, tại mục database vừa tạo, bấm Tables chọn New > Table...
+![Ảnh chụp màn hình 2025-03-24 133437](https://github.com/user-attachments/assets/af3675db-db3d-4192-a6f5-64ef69374222)
+##### Thêm các trường cho bảng, chọn kiểu dữ liệu phù hợp:
+![Ảnh chụp màn hình 2025-03-24 133740](https://github.com/user-attachments/assets/fd506e3b-53e4-4b2c-81a1-92f0f8bf00be)
+##### Bấm Ctrl + S để đặt tên cho bảng vừa tạo, ở đây là bảng SinhVien: 
+![image](https://github.com/user-attachments/assets/387ec9d5-fd05-44fd-8aa5-2a0ba0ddb177)
+##### Bấm chuột phải vào trường muốn đặt làm PK, rồi chọn Set Primary Key:
+![image](https://github.com/user-attachments/assets/4871d293-5357-47ef-b7df-4cf70e3ff04d)
+##### Bấm chuột phải vào khoảng trống trong table, click chọn Check Constraint để tạo CK ( ở đây em áp dụng cho trường NgaySinh ):
+![image](https://github.com/user-attachments/assets/1c1920a4-320f-4ced-a668-a5cf5e6729d9)
