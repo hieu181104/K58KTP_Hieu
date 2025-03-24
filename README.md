@@ -82,3 +82,15 @@ Nhấn giữ phím Ctrl + Click vào các trường chọn làm khóa chính, nh
 ![image](https://github.com/user-attachments/assets/1f749057-f480-4343-959e-7c0784b8e084)
 ![image](https://github.com/user-attachments/assets/6c5bfd0e-db43-466a-b61e-a2d784565d5f)
 #### Khởi tạo các FK cho các bảng
+Để thực hiện thay đổi cho bảng, click chuột phải vào tên bảng chọn Design.
+![image](https://github.com/user-attachments/assets/a6ed5d90-01f2-49c2-814a-d97884630ded)
+##### Để tạo FK ta cần:
+Click chuột phải chọn Relationships...:
+![image](https://github.com/user-attachments/assets/4c28e316-3c5e-4808-bbe9-256fe86b4ad8)
+##### Vì một số bảng không có khóa ngoại nên em chỉ xét các bảng có tồn tại FK để thực hiện:
+##### Bảng GVCN
+![Ảnh chụp màn hình 2025-03-24 155343](https://github.com/user-attachments/assets/b885584c-9a33-45b1-bbec-17b8f217d6fa)
+![Ảnh chụp màn hình 2025-03-24 160145](https://github.com/user-attachments/assets/4384cb1c-6794-4d5c-8f5f-3a5c9ac5ffc7)
+![image](https://github.com/user-attachments/assets/0bdb1dad-90cc-467e-8193-2debd957484c)
+Sau khi thực hiện các bước trên, ctrl + S để lưu và hệ thống sẽ hiển thị thông báo này, bấm OK để hoàn tất việc thiết lập.
+![image](https://github.com/user-attachments/assets/68a832f6-6017-47fb-9b98-7478e86c74c0)
