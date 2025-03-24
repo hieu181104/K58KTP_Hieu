@@ -41,7 +41,7 @@ Tạo csdl quan hệ với tên QLSV gồm các bảng sau:
 #### Tạo database mới tên QLSV:
 ##### Mở SQL Server Management Studio, thực hiện kết nối rồi tại mục Database click chuột phải chọn New Database.
 ![Ảnh chụp màn hình 2025-03-24 132829](https://github.com/user-attachments/assets/b7838af2-cd48-41f2-8b9b-af07958f6f3a)
-##### Để tạo bảng trong database, tại mục database vừa tạo, bấm Tables chọn New > Table...
+#### Để tạo bảng trong database, tại mục database vừa tạo, bấm Tables chọn New > Table...
 ![Ảnh chụp màn hình 2025-03-24 133437](https://github.com/user-attachments/assets/af3675db-db3d-4192-a6f5-64ef69374222)
 ##### Thêm các trường cho bảng, chọn kiểu dữ liệu phù hợp:
 ![Ảnh chụp màn hình 2025-03-24 133740](https://github.com/user-attachments/assets/fd506e3b-53e4-4b2c-81a1-92f0f8bf00be)
@@ -53,4 +53,6 @@ Tạo csdl quan hệ với tên QLSV gồm các bảng sau:
 ![image](https://github.com/user-attachments/assets/1c1920a4-320f-4ced-a668-a5cf5e6729d9)
 ![Ảnh chụp màn hình 2025-03-24 135214](https://github.com/user-attachments/assets/e0775997-31cd-4ef8-b709-210e2b33aa9b)
 ![image](https://github.com/user-attachments/assets/299c6e0f-6766-4dac-8a72-40061f520959)
-
+Sau đây em nhập thử dữ liệu cho bảng SinhVien, nhận thấy khi mọi dữ liệu không vi phạm CK thì hoàn toàn bình thường, nếu vi phạm sẽ hiển thị cảnh báo:
+![Ảnh chụp màn hình 2025-03-24 140158](https://github.com/user-attachments/assets/7162ace6-aad6-4354-a7e4-70e1b4b8b5e6)
+##### Thực hiện tương tự đối với các bảng còn lại trong database, sau đây em xin chụp lại kết quả và không giải thích lại những phần đã chú thích:
