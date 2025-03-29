@@ -72,3 +72,7 @@ Tạo index -> unique cho trường Tên môn, sau đó nhập liệu:
 #### Nhập dữ liệu cho bảng LopHP:
 ![image](https://github.com/user-attachments/assets/b40de514-f934-4acf-a635-c6a8919dbff0)
 #### Nhập dữ liệu cho bảng DKMH:
+![image](https://github.com/user-attachments/assets/32727234-2bea-4d7a-bc33-3a1d54d1893e)
+#### Nhập dữ liệu cho bảng Diem:
+![image](https://github.com/user-attachments/assets/584dda0b-593a-4c1e-a2c8-56b8814cb9eb)
+### Yêu cầu 3: Viết lệnh truy vấn để tính được điểm thành phần của một sinh viên đang học tại lớp học phần
