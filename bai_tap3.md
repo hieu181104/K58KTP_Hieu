@@ -29,3 +29,4 @@
 7. upload 2 file  bai_tap_3_schema.sql và bai_tap_3_data.sql lên repository.
 8. nhớ commit để save nội dung file bai_tap3.md
 ## PASTE ẢNH LÀM BÀI
+### Yêu cầu 1: Sửa bảng DKMH và bảng Diem
