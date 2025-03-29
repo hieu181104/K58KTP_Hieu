@@ -44,3 +44,29 @@ Lưu lại bảng
 Thực hiện tạo FK và CK:
 ![Ảnh chụp màn hình 2025-03-29 140435](https://github.com/user-attachments/assets/15459679-6daa-42a5-ac67-58cab3e9b09b)
 ![Ảnh chụp màn hình 2025-03-29 141526](https://github.com/user-attachments/assets/1ac283c7-2072-4658-8aaf-a1b22fc0f76b)
+### Yêu cầu 2: Nhập dữ liệu cho các bảng
+#### Nhập dữ liệu cho bảng SinhVien:
+![image](https://github.com/user-attachments/assets/ea89ed03-4e65-4d50-b5e4-3947f0cb076e)
+#### Nhập dữ liệu cho bảng Lop:
+![Ảnh chụp màn hình 2025-03-29 150544](https://github.com/user-attachments/assets/9751017b-28ed-4c2a-ba87-272a33371b90)
+Mỗi một mã lớp chỉ tương đương với một tên lớp, khi có sự trùng lặp hệ thống sẽ cảnh báo
+![image](https://github.com/user-attachments/assets/dde4973e-680e-4d24-942e-89ebb0302041)
+![image](https://github.com/user-attachments/assets/539d5f50-986c-4178-88ba-09b546c25f54)
+#### Nhập dữ liệu cho bảng Khoa:
+Thực hiện đặt Index như bảng Lop để đảm bảo mỗi một mã khoa tương tương với một tên khoa
+![image](https://github.com/user-attachments/assets/c600fa85-2583-4188-adf1-dbf368330030)
+#### Nhập dữ liệu cho bảng BoMon:
+Đặt Unique cho tên Bộ Môn:
+![image](https://github.com/user-attachments/assets/344648f9-1a73-4846-9259-59798214f528)
+Nhập dữ liệu:
+![image](https://github.com/user-attachments/assets/5966b389-38fd-4da3-b4fd-da863678871b)
+#### Nhập dữ liệu cho bảng GiaoVien:
+![image](https://github.com/user-attachments/assets/bc6c4baa-41be-4dec-ba1e-011e1e6cbc6d)
+#### Nhập dữ liệu cho bảng GVCN:
+![image](https://github.com/user-attachments/assets/72628cf5-76c0-45d2-b53a-cfce416c7b41)
+#### Nhập dữ liệu cho bảng LopSV:
+![image](https://github.com/user-attachments/assets/0a06b880-f74e-4e09-954f-f35a6208a01b)
+#### Nhập dữ liệu cho bảng MonHoc:
+Tạo index -> unique cho trường Tên môn, sau đó nhập liệu:
+![image](https://github.com/user-attachments/assets/620047bb-5e73-43e1-aa00-a4796418e2a7)
+#### Nhập dữ liệu cho bảng LopHP:
