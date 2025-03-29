@@ -34,7 +34,7 @@ Trong bảng DKMH:
 ![Ảnh chụp màn hình 2025-03-29 134216](https://github.com/user-attachments/assets/0dd0f307-abb2-4509-9ac9-a39b39ae7a52)
 ![Ảnh chụp màn hình 2025-03-29 134637](https://github.com/user-attachments/assets/0a0a9bb8-06c7-42a1-b5cb-1d4375c8974b)
 Ctrl + S để lưu lại thay đổi trong bảng
-![image](https://github.com/user-attachments/assets/38c9e8d8-2933-4a1c-bb92-9527665444ca)
+![image](https://github.com/user-attachments/assets/de4eb512-d1bd-4ca4-9a9e-fc105c269e4c)
 
 Sau khi sửa xong, thực hiện tạo bảng Diem:
 ![image](https://github.com/user-attachments/assets/fec75f9a-e7a6-4a14-9f06-4b85429c24d4)
