@@ -30,3 +30,6 @@
 8. nhớ commit để save nội dung file bai_tap3.md
 ## PASTE ẢNH LÀM BÀI
 ### Yêu cầu 1: Sửa bảng DKMH và bảng Diem
+Trong bảng DKMH:
+![Ảnh chụp màn hình 2025-03-29 134216](https://github.com/user-attachments/assets/0dd0f307-abb2-4509-9ac9-a39b39ae7a52)
+![Ảnh chụp màn hình 2025-03-29 134637](https://github.com/user-attachments/assets/0a0a9bb8-06c7-42a1-b5cb-1d4375c8974b)
