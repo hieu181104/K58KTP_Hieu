@@ -76,6 +76,8 @@ Tạo index -> unique cho trường Tên môn, sau đó nhập liệu:
 #### Nhập dữ liệu cho bảng Diem:
 ![image](https://github.com/user-attachments/assets/584dda0b-593a-4c1e-a2c8-56b8814cb9eb)
 ### Yêu cầu 3: Viết lệnh truy vấn để tính được điểm thành phần của một sinh viên đang học tại lớp học phần
-
+![image](https://github.com/user-attachments/assets/38bc0d55-dab6-4edf-a72b-a85ebc9675d3)
 ### Tạo diagram
-![Ảnh chụp màn hình 2025-03-29 161546](https://github.com/user-attachments/assets/241e4fd6-3727-4ed9-9611-485e4803dad1)
+![Ảnh chụp màn hình 2025-03-29 165531](https://github.com/user-attachments/assets/66906a47-1f74-4a12-b48b-b33414f7931e)
+#### Ảnh chụp các liên kết giữa các bảng:
+![image](https://github.com/user-attachments/assets/6611b387-2015-4813-a482-ab5b15722cce)
