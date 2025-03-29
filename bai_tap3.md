@@ -80,4 +80,5 @@ Tạo index -> unique cho trường Tên môn, sau đó nhập liệu:
 ### Tạo diagram
 ![Ảnh chụp màn hình 2025-03-29 165531](https://github.com/user-attachments/assets/66906a47-1f74-4a12-b48b-b33414f7931e)
 #### Ảnh chụp các liên kết giữa các bảng:
-![image](https://github.com/user-attachments/assets/6611b387-2015-4813-a482-ab5b15722cce)
+![image](https://github.com/user-attachments/assets/9f8ed402-4c2d-4124-979f-c7d5d585478e)
+## HẾT
