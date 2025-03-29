@@ -70,3 +70,5 @@ Nhập dữ liệu:
 Tạo index -> unique cho trường Tên môn, sau đó nhập liệu:
 ![image](https://github.com/user-attachments/assets/620047bb-5e73-43e1-aa00-a4796418e2a7)
 #### Nhập dữ liệu cho bảng LopHP:
+![image](https://github.com/user-attachments/assets/b40de514-f934-4acf-a635-c6a8919dbff0)
+#### Nhập dữ liệu cho bảng DKMH:
