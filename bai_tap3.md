@@ -33,3 +33,14 @@
 Trong bảng DKMH:
 ![Ảnh chụp màn hình 2025-03-29 134216](https://github.com/user-attachments/assets/0dd0f307-abb2-4509-9ac9-a39b39ae7a52)
 ![Ảnh chụp màn hình 2025-03-29 134637](https://github.com/user-attachments/assets/0a0a9bb8-06c7-42a1-b5cb-1d4375c8974b)
+Ctrl + S để lưu lại thay đổi trong bảng
+![image](https://github.com/user-attachments/assets/38c9e8d8-2933-4a1c-bb92-9527665444ca)
+
+Sau khi sửa xong, thực hiện tạo bảng Diem:
+![image](https://github.com/user-attachments/assets/fec75f9a-e7a6-4a14-9f06-4b85429c24d4)
+![Ảnh chụp màn hình 2025-03-29 140118](https://github.com/user-attachments/assets/1dfb3b90-1394-4a06-b7f4-5be1febfdaf4)
+Lưu lại bảng
+![image](https://github.com/user-attachments/assets/9e051940-d172-49e1-95b5-92b4879152e4)
+Thực hiện tạo FK và CK:
+![Ảnh chụp màn hình 2025-03-29 140435](https://github.com/user-attachments/assets/15459679-6daa-42a5-ac67-58cab3e9b09b)
+![Ảnh chụp màn hình 2025-03-29 141526](https://github.com/user-attachments/assets/1ac283c7-2072-4658-8aaf-a1b22fc0f76b)
